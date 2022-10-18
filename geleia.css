@@ -1,4 +1,4 @@
-sbody {
+body {
    background: #CCCCCC;
 }
 
@@ -12,13 +12,10 @@ h1  {
      margin-left: 15px;
 }
 
-#missao {
-       font-size: 20px
-}
-
-
 #geleia{
-    width: 50%;
+    width: 45%;
+    padding-top: 50px;
+     margin-left: 370px;
 }
 
 p {
