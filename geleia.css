@@ -1,5 +1,5 @@
 body {
-   background: #CCCCCC;
+   background: #;
 }
 
 h1  {
@@ -26,6 +26,8 @@ p {
 
 .gengibre {
     width: 65%;
+    padding-top: 50px;
+     margin-left: 200px;
 }
 
 h2 {
@@ -59,3 +61,19 @@ li {
 strong {
     display: inline;
 }
+
+
+nav {
+    position: ;
+    top:  110px;
+    right: 0;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #orange;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
